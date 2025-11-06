@@ -1,5 +1,5 @@
 # Shopping List 
-This dummy dataset contains a shopping list.<br>
+This dummy dataset contains a shopping list.
 
 ![Shopping List](shopping.jpg)
 ## Attributes
